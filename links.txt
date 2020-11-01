@@ -1,0 +1,6 @@
+http://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4 video2.mp4
+http://file-examples-com.github.io/uploads/2018/04/file_example_OGG_640_2_7mg.ogg video1.ogg
+http://file-examples-com.github.io/uploads/2017/10/file_example_JPG_2500kB.jpg picture.jpeg
+http://file-examples-com.github.io/uploads/2018/04/file_example_AVI_1920_2_3MG.avi video4.m2v
+http://file-examples-com.github.io/uploads/2018/04/file_example_MOV_1920_2_2MB.mov video3_1.mp4
+http://file-examples-com.github.io/uploads/2018/04/file_example_MOV_1920_2_2MB.mov video3_2.mp4
